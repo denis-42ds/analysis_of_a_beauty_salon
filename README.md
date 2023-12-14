@@ -35,5 +35,5 @@
 - Сформирован запрос
 - Получены метрики CPL и ROAS
 - Таблица экспортирована в Google Sheets: [beauty_saloon_marketing](https://docs.google.com/spreadsheets/d/1qmyOsyGjjsT02dPnXVZmcHXBjPW3QkenVv0HIReSMKg/edit?usp=sharing)
-- Построен дашборд в Looker Studio
+- Построен дашборд в Looker Studio: [effectiveness_of_beauty_salon_marketing](https://lookerstudio.google.com/reporting/9d800dcc-af84-4dcb-b933-17ff383cee3a)
 - Изучена эффективность маркетинга
